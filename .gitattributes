@@ -8,3 +8,4 @@ DragGAN1/550000.pt filter=lfs diff=lfs merge=lfs -text
 DragGAN1/draggan_perspective.mp4 filter=lfs diff=lfs merge=lfs -text
 DragGAN1/draggan_yuta.mp4 filter=lfs diff=lfs merge=lfs -text
 DragGAN1/output.mp4 filter=lfs diff=lfs merge=lfs -text
+DragGAN1/output1.mp4 filter=lfs diff=lfs merge=lfs -text
